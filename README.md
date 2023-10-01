@@ -1,2 +1,2 @@
 # Bharat_ML
-This repository containsBHARAT Internship tasks
+This repository contains BHARAT Internship tasks
